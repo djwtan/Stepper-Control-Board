@@ -1,0 +1,15 @@
+0=cage_z_home
+1=cage_z_lower
+2=cage_z_raise
+3=input_x_home
+4=input_x_to_belt
+5=input_x_to_mid
+6=input_z_home
+7=input_z_lower
+8=input_z_raise
+9=output_x_home
+10=output_x_to_belt
+11=output_x_to_mid
+12=output_z_home
+13=output_z_lower
+14=output_z_raise

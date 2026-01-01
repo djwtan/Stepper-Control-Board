@@ -1,2 +1,5 @@
-# Stepper-Control-Board
-SAM4E, TMC4361A, TMC5160
+# Japondo Stepper Board
+
+![alt text](image.png)
+
+Ft. Tan tan Steppering
